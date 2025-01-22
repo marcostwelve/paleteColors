@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./src/css/style.css">
+    <script src="./src/js/script.js" defer></script>
+    <title>Gerador de paleta de cores</title>
+</head>
+<body>
+    <header>
+        <h1>Paleta de cores</h1>
+    </header>
+
+    <div class="quantity-colors">
+        <label for="color-quantity">Quantidade de cores:</label>
+        <input type="range" id="color-quantity" min="1" max="10" value="1"/>
+        <span id="quantity-colors">1</span>
+    </div>
+
+    <div class="container">
+        <div class="colors"></div>
+    </div>
+
+    <button id="generate-button">Gerar Paleta</button>
+
+    <footer>
+        <p>Desenvolvido por <a href="https://marcostwelve.github.io/links/" target="_blank">Marcos Twelve</a></p>
+    </footer>
+</body>
+</html>
