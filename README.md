@@ -2,7 +2,8 @@
 <p align="center">Um simples Web App para gerar cores.</p>
 <p align="center">Tecnologias   |    Projeto   |    Licença</p>
 
-![Untitled_ Oct 23, 2023 11_49 PM](https://github.com/marcostwelve/generate-colors/assets/94411600/2194244f-5010-4b18-9d8f-18561b47cc13)
+![image](https://github.com/user-attachments/assets/b1da15b6-8e64-4172-b72b-c4357f7d2233)
+
 
 
 <h3>🚀 Tecnologias</h3>
