@@ -20,8 +20,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <h3>🧠 Como Utilizar</h3>
 
-<p>Ao clicar no botão "gerar paleta", o sistema gera cinco diferentes cores, onde você pode copiar o valor em hexadecimal e utilizar em seus projetos.</p>
+<p>Ao clicar no botão "gerar paleta", o sistema gera diferentes cores de acordo com a quantidade de cores a sua escolha e utilizar em seus projetos.</p>
 
-[Visite o projeto online](https://gerador-paletas.vercel.app/)
+[Visite o projeto online](https://marcostwelve.github.io/paleteColors/)
 <h3>📝 Licença </h3>
 Esse projeto está sob a licença MIT.
